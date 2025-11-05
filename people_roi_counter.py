@@ -260,7 +260,7 @@ class PeopleROICounter:
                     # Draw red center line in the gate
                     cy = (ry1 + ry2) // 2
                     full_len = max(0, (rx2 - rx1) - 12)
-                    half_scaled = int(0.5 * full_len / 2)
+                    half_scaled = int(0.8 * full_len / 2)
                     cx_mid = (rx1 + rx2) // 2
                     x_start = cx_mid - half_scaled
                     x_end = cx_mid + half_scaled
@@ -372,3 +372,4 @@ def main():
 if __name__ == '__main__':
 
     main()
+
