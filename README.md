@@ -107,13 +107,16 @@ The output includes:
 ## 📁 Project Structure
 
 ```
-People-ROI-Counter/
+People-Counter/
 │
-├── people_roi_counter.py      # Main detection & counting script
-├── README.md                  # Project documentation
-├── requirements.txt           # Python dependencies
-├── input.mp4                  # Example input video (add your own)
-└── output_people_roi.mp4      # Example processed output
+├── people_roi_counter.py      # 🎯 Main detection & counting script
+├── requirements.txt           # 📦 Required Python dependencies
+├── README.md                  # 📘 Project documentation and visuals
+├── LICENSE                    # ⚖️ License file (MIT)
+├── .gitignore                 # 🚫 Files and folders to ignore in Git
+├── input.mp4                  # 🎥 Input video (optional)
+└── output_people_roi.mp4      # 💾 Processed output video
+
 ```
 
 ---
@@ -150,7 +153,7 @@ Developed using:
 **Safia Saad**
 💼 AI Engineer | Computer Vision & Deep Learning Enthusiast
 📧 [safiakotb123@gmail.com](mailto:safiakotb123@gmail.com)
-🌐 [LinkedIn](www.linkedin.com/in/safia-saad)
+🌐 [LinkedIn](https://www.linkedin.com/in/safia-saad/)
 
 ---
 
