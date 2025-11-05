@@ -41,7 +41,7 @@ class PeopleROICounter:
         self.out_count = 0
         self.total_count = 0
 
-        # Soft colors that look nice on video (BGR format)
+        # colors that look nice on video (BGR format)
         self.color_detection_default = (150, 160, 180)
         self.color_detection_in = (120, 190, 160)
         self.color_detection_out = (140, 160, 220)
@@ -370,4 +370,5 @@ def main():
 
 
 if __name__ == '__main__':
+
     main()
