@@ -10,10 +10,12 @@ It’s perfect for analyzing **crowd flow** or **entry/exit counts** in any moni
 ## 🎥 Output Preview
 
 <p align="center">
-  <img src="demo.gif" alt="People ROI Counter Demo" width="700">
+  <a href="https://github.com/safiasaad2/People-Counter/blob/main/output_people_roi.mp4">
+    <img src="demo.gif" alt="People ROI Counter Demo" width="700">
+  </a>  
 </p>  
-https://github.com/safiasaad2/People-Counter/blob/main/output_people_roi.mp4
 
+🎬 [Watch the full output video here](https://github.com/safiasaad2/People-Counter/blob/main/output_people_roi.mp4)
 
 ---
 
@@ -142,9 +144,9 @@ People-Counter/
 
 Developed using:
 
-* **YOLOv8** (Ultralytics)
-* **ByteTrack** integration from **Supervision**
-* **OpenCV** for visualization and video processing
+* [**YOLOv8** (Ultralytics)](https://github.com/ultralytics/ultralytics)
+* [**ByteTrack** integration from Supervision](https://github.com/roboflow/supervision)
+* [**OpenCV**](https://opencv.org/) for visualization and video processing
 
 ---
 
