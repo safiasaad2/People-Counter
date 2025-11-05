@@ -9,11 +9,11 @@ It’s perfect for analyzing **crowd flow** or **entry/exit counts** in any moni
 
 ## 🎥 Output Preview
 
-<p align="center">
-  <a href="https://github.com/safiasaad2/People-Counter/blob/main/output_people_roi.mp4">
-    <img src="demo.gif" alt="People ROI Counter Demo" width="700">
-  </a>  
-</p>  
+<video width="700" controls>
+  <source src="https://github.com/safiasaad2/People-Counter/blob/main/output_people_roi.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 🎬 [Watch the full output video here](https://github.com/safiasaad2/People-Counter/blob/main/output_people_roi.mp4)
 
@@ -22,9 +22,13 @@ It’s perfect for analyzing **crowd flow** or **entry/exit counts** in any moni
 ## 🚀 Features
 
 ✅ Real-time detection using **YOLOv8**
+<br>
 ✅ Tracking with **ByteTrack** for consistent ID assignment
+<br>
 ✅ Dynamic **IN/OUT** counting based on motion direction
+<br>
 ✅ Supports both **rectangular** and **rotated** ROI regions
+<br>
 ✅ Saves processed **output video** with live statistics overlay
 
 ---
