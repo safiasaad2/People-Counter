@@ -5,6 +5,11 @@
 This project detects and counts people entering and exiting a defined **Region of Interest (ROI)** using **YOLOv8** for detection and **ByteTrack** for tracking.
 It’s perfect for analyzing **crowd flow** or **entry/exit counts** in any monitored area — such as **store entrances**, **corridors**, or **general scenes**.
 
+[![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Libraries](https://img.shields.io/badge/Libraries-Ultralytics%20%7C%20Supervision%20%7C%20ByteTrack%20%7C%20OpenCV%20%7C%20NumPy-lightgrey)]()
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen)]()
+
+
 ---
 
 ## 🎥 Output Preview
