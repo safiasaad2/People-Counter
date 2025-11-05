@@ -100,8 +100,11 @@ After processing, an annotated video named **`output_people_roi.mp4`** will be s
 The output includes:
 
 🎯 Bounding boxes for each tracked person
+<br>
 🟩 ROI region visualization
+<br>
 📈 Entry/Exit counters displayed on-screen
+<br>
 🧭 Movement trails showing direction
 
 ---
@@ -126,8 +129,11 @@ People-Counter/
 ## 🧠 Tips
 
 💡 Adjust the ROI to fit your camera’s angle or gate position.
+<br>
 💡 Use static camera videos for best results.
+<br>
 💡 Try different YOLOv8 models (`yolov8n.pt`, `yolov8s.pt`, `yolov8m.pt`) to balance speed vs. accuracy.
+<br>
 💡 Works with various scenarios such as **store entrances**, **mall doors**, or **building entries**.
 
 ---
