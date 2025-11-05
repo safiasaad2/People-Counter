@@ -9,13 +9,7 @@ It’s perfect for analyzing **crowd flow** or **entry/exit counts** in any moni
 
 ## 🎥 Output Preview
 
-<video width="700" controls>
-  <source src="https://github.com/safiasaad2/People-Counter/blob/main/output_people_roi.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
-🎬 [Watch the full output video here](https://github.com/safiasaad2/People-Counter/blob/main/output_people_roi.mp4)
+[![Watch the output video](https://github.com/safiasaad2/People-Counter/blob/main/demo.gif)](https://github.com/safiasaad2/People-Counter/blob/main/output_people_roi.mp4)
 
 ---
 
